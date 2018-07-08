@@ -3,7 +3,7 @@
 Copies your current Steam lobby URL to your clipboard, so you can paste it into Discord (or similar) to invite people to your game. Play sets against people who aren't on your friends list, without lots of clicks!
 
 
-# DOWNLOAD LINK IS HERE:
+# DOWNLOAD HERE:
 
 https://github.com/itsmrpeck/sglobbylink/releases
 
