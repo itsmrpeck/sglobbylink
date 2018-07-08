@@ -6,6 +6,7 @@ Copies your current Steam lobby URL to your clipboard, so you can paste it into 
 # DOWNLOAD LINK IS HERE:
 
 https://github.com/itsmrpeck/sglobbylink/releases
+
 It's Windows only, sorry Mac/Linux users.
 
 
