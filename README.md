@@ -1,5 +1,8 @@
 # SGLobbyLink v1.0 - by Mr Peck
 
+Automatically copies your current Steam lobby URL to your clipboard, so you can paste it in Discord (or similar) to invite people to your game.
+
+
 # Download:
 
 - Windows: Get the .exe here https://github.com/itsmrpeck/sglobbylink/releases
