@@ -1,7 +1,7 @@
 /*
 SGLobbyLink by Mr Peck (2018)
 
-This is crappy throwaway source code for a quick useful utility, I know it sucks. Please don't judge it.
+This is crappy throwaway source code for a quick utility that will barely need to be maintained. I know the code sucks. Please don't judge me.
 */
 
 #include "stdafx.h"
