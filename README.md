@@ -1,6 +1,6 @@
 # SGLobbyLink v1.0 - by Mr Peck
 
-Automatically copies your current Steam lobby URL to your clipboard, so you can paste it in Discord (or similar) to invite people to your game.
+Automatically copies your current Steam lobby URL to your clipboard, so you can paste it into Discord (or similar) to invite people to your game. Play sets against people who aren't on your friends list, without lots of clicks!
 
 
 # Download:
