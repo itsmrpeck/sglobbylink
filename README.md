@@ -31,5 +31,5 @@ Things that will cause this program to not work:
 
 # External libraries used:
 
-- libcurl (cURL)
-- json.h
+- libcurl (cURL): https://curl.haxx.se/libcurl/
+- json.h: https://github.com/sheredom/json.h
