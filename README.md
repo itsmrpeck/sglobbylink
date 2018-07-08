@@ -4,9 +4,9 @@
 
 # How to use:
 
-Create or join a Skullgirls lobby on Steam.
-Run the program. It copies your 'Join Game' link to your clipboard.
-Paste the link in Discord!
+- Create or join a Skullgirls lobby on Steam.
+- Run the program. It copies your 'Join Game' link to your clipboard.
+- Paste the link in Discord!
 
 NOTE: The first time you run the program, it asks for your Steam ID and saves it to steam_id.txt. Once it has saved your Steam ID, it can instantly get your lobby link without having to ask you for anything.
 
