@@ -5,7 +5,7 @@ Copies your current Steam lobby URL to your clipboard, so you can paste it into 
 
 # STEAM WEB API KEY NOTE (WHY THIS PROGRAM NO LONGER WORKS):
 
-I have revoked my Steam WEB API key for security reasons so this program will no longer work. If you want to build your own version of the program, add your Steam Web API key to line 21 of sg_lobby_link.c (#define STEAM_API_KEY "[REDACTED]").
+I have revoked my Steam Web API key for security reasons so this program will no longer work. If you want to build your own personal version of the program, add your Steam Web API key to line 21 of sg_lobby_link.c (#define STEAM_API_KEY "[REDACTED]").
 
 
 # How to use:
