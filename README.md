@@ -3,11 +3,9 @@
 Copies your current Steam lobby URL to your clipboard, so you can paste it into Discord (or similar) to invite people to your game. Play sets against people who aren't on your friends list, without lots of clicks!
 
 
-# DOWNLOAD HERE:
+# STEAM WEB API KEY NOTE (WHY THIS PROGRAM NO LONGER WORKS):
 
-https://github.com/itsmrpeck/sglobbylink/releases
-
-It's Windows only, sorry Mac/Linux users.
+I have revoked my Steam WEB API key for security reasons so this program will no longer work. If you want to build your own version of the program, add your Steam Web API key to line 21 of sg_lobby_link.c (#define STEAM_API_KEY "[REDACTED]").
 
 
 # How to use:
